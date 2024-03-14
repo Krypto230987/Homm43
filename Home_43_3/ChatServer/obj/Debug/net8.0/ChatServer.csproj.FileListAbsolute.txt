@@ -1,0 +1,15 @@
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\bin\Debug\net8.0\ChatServer.exe
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\bin\Debug\net8.0\ChatServer.deps.json
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\bin\Debug\net8.0\ChatServer.runtimeconfig.json
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\bin\Debug\net8.0\ChatServer.dll
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\bin\Debug\net8.0\ChatServer.pdb
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\obj\Debug\net8.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\obj\Debug\net8.0\ChatServer.AssemblyInfo.cs
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\obj\Debug\net8.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\obj\Debug\net8.0\ChatServer.sourcelink.json
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\obj\Debug\net8.0\ChatServer.dll
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\obj\Debug\net8.0\refint\ChatServer.dll
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\obj\Debug\net8.0\ChatServer.pdb
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\obj\Debug\net8.0\ChatServer.genruntimeconfig.cache
+C:\Users\offic\RiderProjects\Home_43_1\ChatServer\obj\Debug\net8.0\ref\ChatServer.dll
